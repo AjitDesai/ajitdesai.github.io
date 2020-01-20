@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2020-01-20T12:58:21-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2020-01-20T12:58:21-05:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-01-20T12:58:21-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin-and-sunetra-sarkar/</loc>
     <lastmod>2020-01-20T12:58:21-05:00</lastmod>
   </url>
   
@@ -38,7 +38,8 @@
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/authors/sunetra-sarkar/</loc>
+    <lastmod>2020-01-20T12:58:21-05:00</lastmod>
   </url>
   
   <url>

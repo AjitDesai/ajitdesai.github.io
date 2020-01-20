@@ -13,20 +13,20 @@
     </image>
     
     <item>
-      <title>admin and &#34;Sunetra Sarkar&#34;</title>
-      <link>/authors/admin-and-sunetra-sarkar/</link>
-      <pubDate>Mon, 20 Jan 2020 12:58:21 -0500</pubDate>
-      <guid>/authors/admin-and-sunetra-sarkar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Jan 2020 12:58:21 -0500</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Ajit Desai is a data scientist at research division in the Bank of Canada. His current research interests include application of AI and ML in economics and finance. He is currently working on deep reinforcement learning for payments system, supervised ML for time series forecasting and unsupervised ML for anomaly detection in large-value transactions data.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Sunetra Sarkar</title>
+      <link>/authors/sunetra-sarkar/</link>
+      <pubDate>Mon, 20 Jan 2020 12:58:21 -0500</pubDate>
+      <guid>/authors/sunetra-sarkar/</guid>
+      <description></description>
     </item>
     
   </channel>
