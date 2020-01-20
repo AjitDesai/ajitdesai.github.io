@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Pettit | Academic</title>
+    <link>/authors/chris-pettit/</link>
+      <atom:link href="/authors/chris-pettit/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chris Pettit</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 14:08:00 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Chris Pettit</title>
+      <link>/authors/chris-pettit/</link>
+    </image>
+    
+    <item>
+      <title>Scalable domain decomposition solvers for stochastic PDEs in high performance computing</title>
+      <link>/publication/my-pub3/</link>
+      <pubDate>Mon, 20 Jan 2020 14:08:00 -0500</pubDate>
+      <guid>/publication/my-pub3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

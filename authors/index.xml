@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 12:58:21 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 14:11:55 -0500</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -15,16 +15,88 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Mon, 20 Jan 2020 12:58:21 -0500</pubDate>
+      <pubDate>Mon, 20 Jan 2020 14:11:55 -0500</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Ajit Desai is a data scientist at research division in the Bank of Canada. His current research interests include application of AI and ML in economics and finance. He is currently working on deep reinforcement learning for payments system, supervised ML for time series forecasting and unsupervised ML for anomaly detection in large-value transactions data.&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Francisco Rivadeneyra</title>
+      <link>/authors/francisco-rivadeneyra/</link>
+      <pubDate>Mon, 20 Jan 2020 14:11:55 -0500</pubDate>
+      <guid>/authors/francisco-rivadeneyra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Han Du</title>
+      <link>/authors/han-du/</link>
+      <pubDate>Mon, 20 Jan 2020 14:11:55 -0500</pubDate>
+      <guid>/authors/han-du/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pablo Samuel Castro</title>
+      <link>/authors/pablo-samuel-castro/</link>
+      <pubDate>Mon, 20 Jan 2020 14:11:55 -0500</pubDate>
+      <guid>/authors/pablo-samuel-castro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rodney Garratt</title>
+      <link>/authors/rodney-garratt/</link>
+      <pubDate>Mon, 20 Jan 2020 14:11:55 -0500</pubDate>
+      <guid>/authors/rodney-garratt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abhijit Sarkar</title>
+      <link>/authors/abhijit-sarkar/</link>
+      <pubDate>Mon, 20 Jan 2020 14:08:00 -0500</pubDate>
+      <guid>/authors/abhijit-sarkar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Pettit</title>
+      <link>/authors/chris-pettit/</link>
+      <pubDate>Mon, 20 Jan 2020 14:08:00 -0500</pubDate>
+      <guid>/authors/chris-pettit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dominique Poirel</title>
+      <link>/authors/dominique-poirel/</link>
+      <pubDate>Mon, 20 Jan 2020 14:08:00 -0500</pubDate>
+      <guid>/authors/dominique-poirel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohammad Khalil</title>
+      <link>/authors/mohammad-khalil/</link>
+      <pubDate>Mon, 20 Jan 2020 14:08:00 -0500</pubDate>
+      <guid>/authors/mohammad-khalil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeroen A. S. Witteveen</title>
+      <link>/authors/jeroen-a.-s.-witteveen/</link>
+      <pubDate>Mon, 20 Jan 2020 14:00:14 -0500</pubDate>
+      <guid>/authors/jeroen-a.-s.-witteveen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sunetra Sarkar</title>
       <link>/authors/sunetra-sarkar/</link>
-      <pubDate>Mon, 20 Jan 2020 12:58:21 -0500</pubDate>
+      <pubDate>Mon, 20 Jan 2020 14:00:14 -0500</pubDate>
       <guid>/authors/sunetra-sarkar/</guid>
       <description></description>
     </item>

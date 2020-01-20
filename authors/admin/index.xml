@@ -5,12 +5,36 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 12:58:21 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 14:11:55 -0500</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Estimating Policy Functions in Payments Systems using Deep Reinforcement Learning</title>
+      <link>/publication/my-pub4/</link>
+      <pubDate>Mon, 20 Jan 2020 14:11:55 -0500</pubDate>
+      <guid>/publication/my-pub4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable domain decomposition solvers for stochastic PDEs in high performance computing</title>
+      <link>/publication/my-pub3/</link>
+      <pubDate>Mon, 20 Jan 2020 14:08:00 -0500</pubDate>
+      <guid>/publication/my-pub3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty Quantification of a Nonlinear Aeroelastic System Using PCE With Constant Phase Interpolation</title>
+      <link>/publication/my-pub2/</link>
+      <pubDate>Mon, 20 Jan 2020 14:00:14 -0500</pubDate>
+      <guid>/publication/my-pub2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analysis of a Nonlinear Aeroelastic System with Parametric Uncertainties Using Polynomial Chaos Expansion</title>

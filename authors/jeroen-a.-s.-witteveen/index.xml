@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sunetra Sarkar | Academic</title>
-    <link>/authors/sunetra-sarkar/</link>
-      <atom:link href="/authors/sunetra-sarkar/index.xml" rel="self" type="application/rss+xml" />
-    <description>Sunetra Sarkar</description>
+    <title>Jeroen A. S. Witteveen | Academic</title>
+    <link>/authors/jeroen-a.-s.-witteveen/</link>
+      <atom:link href="/authors/jeroen-a.-s.-witteveen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeroen A. S. Witteveen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 14:00:14 -0500</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Sunetra Sarkar</title>
-      <link>/authors/sunetra-sarkar/</link>
+      <title>Jeroen A. S. Witteveen</title>
+      <link>/authors/jeroen-a.-s.-witteveen/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/my-pub2/</link>
       <pubDate>Mon, 20 Jan 2020 14:00:14 -0500</pubDate>
       <guid>/publication/my-pub2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analysis of a Nonlinear Aeroelastic System with Parametric Uncertainties Using Polynomial Chaos Expansion</title>
-      <link>/publication/my-pub1/</link>
-      <pubDate>Mon, 20 Jan 2020 12:58:21 -0500</pubDate>
-      <guid>/publication/my-pub1/</guid>
       <description></description>
     </item>
     

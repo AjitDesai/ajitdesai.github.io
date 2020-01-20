@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Han Du | Academic</title>
+    <link>/authors/han-du/</link>
+      <atom:link href="/authors/han-du/index.xml" rel="self" type="application/rss+xml" />
+    <description>Han Du</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 14:11:55 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Han Du</title>
+      <link>/authors/han-du/</link>
+    </image>
+    
+    <item>
+      <title>Estimating Policy Functions in Payments Systems using Deep Reinforcement Learning</title>
+      <link>/publication/my-pub4/</link>
+      <pubDate>Mon, 20 Jan 2020 14:11:55 -0500</pubDate>
+      <guid>/publication/my-pub4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
