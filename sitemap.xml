@@ -108,15 +108,21 @@
   </url>
   
   <url>
+    <loc>/talk/my-talk1/</loc>
+    <lastmod>2019-11-29T14:59:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-11-29T14:59:03-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
   </url>
   
   <url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
   </url>
   
   <url>
