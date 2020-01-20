@@ -3,15 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2020-01-20T12:58:21-05:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-01-20T12:58:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ajit-desai-and-sunetra-sarkar/</loc>
+    <lastmod>2020-01-20T12:58:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/my-pub1/</loc>
+    <lastmod>2020-01-20T12:58:21-05:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2020-01-20T12:58:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-01-20T12:58:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-01-20T12:58:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>
@@ -20,14 +47,6 @@
   
   <url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
   </url>
   
   <url>
