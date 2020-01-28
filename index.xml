@@ -5,20 +5,12 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jan 2020 15:14:41 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 14:11:55 -0500</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
       <link>/</link>
     </image>
-    
-    <item>
-      <title>My Talk2</title>
-      <link>/talk/my-talk2/</link>
-      <pubDate>Tue, 28 Jan 2020 15:14:41 -0500</pubDate>
-      <guid>/talk/my-talk2/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Estimating Policy Functions in Payments Systems using Deep Reinforcement Learning</title>
@@ -49,6 +41,14 @@
       <link>/publication/my-pub1/</link>
       <pubDate>Mon, 20 Jan 2020 12:58:21 -0500</pubDate>
       <guid>/publication/my-pub1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Policy Functions in Payments Systems using Deep Reinforcement Learning</title>
+      <link>/talk/my-talk2/</link>
+      <pubDate>Sun, 08 Dec 2019 15:14:41 -0500</pubDate>
+      <guid>/talk/my-talk2/</guid>
       <description></description>
     </item>
     
